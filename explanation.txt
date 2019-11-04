@@ -1,0 +1,6 @@
+I used 3 ways to predict the diagnosis of cancer:
+    1) Logistic regression
+    2) SVM
+    3) Decision tree
+
+I got best prediction using SVM (weighted avg = 0.81). It was expected because SVM is the best way to calculate the classification problem comparing with the Decision tree and Logistic regression. Second result was using logistic regression (weighted avg =  0.73 ), and the last one is Decision tree (weighted avg = 0.68)
